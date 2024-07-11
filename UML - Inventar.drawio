@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T12:11:29.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zxo4veFB8eu1QWdsOXud" version="24.6.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2024-07-11T15:57:48.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZWhT3Scz4rpBbNGJfqAN" version="24.6.4" type="github" pages="14">
   <diagram id="v9m1lkp-MerkRdIZIUCS" name="Nová položka - new 0.0.2">
     <mxGraphModel dx="2963" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -161,7 +161,7 @@
         <mxCell id="iz5CQ69epi1tEIr2LH8e-0" />
         <mxCell id="iz5CQ69epi1tEIr2LH8e-1" parent="iz5CQ69epi1tEIr2LH8e-0" />
         <mxCell id="iz5CQ69epi1tEIr2LH8e-2" value="Vyřazení - new 0.0.2" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="iz5CQ69epi1tEIr2LH8e-1" vertex="1">
-          <mxGeometry x="20" y="10" width="1270" height="1120" as="geometry" />
+          <mxGeometry x="20" y="10" width="1615" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="iz5CQ69epi1tEIr2LH8e-3" value="IT" style="swimlane;html=1;startSize=20;" parent="iz5CQ69epi1tEIr2LH8e-2" vertex="1">
           <mxGeometry y="20" width="460" height="1100" as="geometry" />
@@ -274,9 +274,9 @@
         <mxCell id="MkksUWUF5cF3fMW36NLG-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=27.5;exitPerimeter=0;entryX=0.994;entryY=0.56;entryDx=0;entryDy=0;entryPerimeter=0;" parent="iz5CQ69epi1tEIr2LH8e-47" source="84331XU_jU02rtEqOl0o-34" target="84331XU_jU02rtEqOl0o-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iz5CQ69epi1tEIr2LH8e-85" value="Gen. ředitel" style="swimlane;html=1;startSize=20;" parent="iz5CQ69epi1tEIr2LH8e-2" vertex="1" collapsed="1">
-          <mxGeometry x="845" y="20" width="40" height="1100" as="geometry">
-            <mxRectangle x="845" y="20" width="385" height="1100" as="alternateBounds" />
+        <mxCell id="iz5CQ69epi1tEIr2LH8e-85" value="Gen. ředitel" style="swimlane;html=1;startSize=20;" parent="iz5CQ69epi1tEIr2LH8e-2" vertex="1">
+          <mxGeometry x="845" y="20" width="385" height="1100" as="geometry">
+            <mxRectangle x="845" y="20" width="40" height="1100" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="84331XU_jU02rtEqOl0o-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="iz5CQ69epi1tEIr2LH8e-85" source="CTsZy-Fcsoxy0qtnJ2XX-47" target="84331XU_jU02rtEqOl0o-31" edge="1">
@@ -336,7 +336,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hXL6XllhaiSI0aOAm6cE-6" value="Účtárna" style="swimlane;html=1;startSize=20;" parent="iz5CQ69epi1tEIr2LH8e-2" vertex="1">
-          <mxGeometry x="885" y="20" width="385" height="1100" as="geometry" />
+          <mxGeometry x="1230" y="20" width="385" height="1100" as="geometry" />
         </mxCell>
         <mxCell id="84331XU_jU02rtEqOl0o-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="hXL6XllhaiSI0aOAm6cE-6" source="fYuqOfs3jIPopMT8o3yY-20" target="84331XU_jU02rtEqOl0o-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
